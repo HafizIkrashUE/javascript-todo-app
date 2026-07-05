@@ -5,7 +5,8 @@ A simple and responsive To-Do List application built using HTML5, CSS3, and Vani
 ## Screenshot
 
 ![To-Do App]
-<img width="958" height="499" alt="Screenshot " src="https://github.com/user-attachments/assets/d938b407-ecfa-4536-84ff-3e5015f0cc11" />
+<img width="955" height="491" alt="Screenshot" src="https://github.com/user-attachments/assets/3b8aaec1-bfd1-414b-8889-62677bd833c6" />
+
 
 
 ## Features
